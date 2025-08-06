@@ -8,6 +8,12 @@ The structure and columns of this report are inspired by a real Aging Balance Re
 
 # Power BI Dashboard
 
+This interactive dashboard provides a clear snapshot of invoice aging across customer accounts and is used to clearly visualize and interpret the data from Excel.
+
+It is possible to explore overdue trends by customer, account status, banding type or account owner, enabling targeted analysis.
+
+The dashboard also highlights upcoming due amounts and detailed customer-level data, helping teams prioritize follow-ups and proactively manage financial risk.
+
 <img width="1399" height="783" alt="Dashboard Screenshot" src="https://github.com/user-attachments/assets/86e0cd77-6dbf-4fa6-a205-727a6e0c7621" />
 
 # Steps in Power Query
