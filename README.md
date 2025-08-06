@@ -18,7 +18,7 @@ Creating overdue buckets based on the number of days an item is overdue.
 Grouping rows by account, ensuring that all numeric columns are logically summed.
 Merging data from both sources (SAP and Salesforce) into a unified dataset.
 
-<img width="294" height="453" alt="Power Query Steps Screenshot" src="https://github.com/user-attachments/assets/f167b521-b29c-49c1-9472-4da47d01bf16" />
+<img width="300" height="461" alt="Power Query1" src="https://github.com/user-attachments/assets/c9cf81ed-23ce-4258-a6f9-905b885bef40" />
 
 # File Reference
 
