@@ -6,6 +6,10 @@ The structure and columns of this report are inspired by a real Aging Balance Re
 
 ![Recording Excel GIF](https://github.com/user-attachments/assets/b169deed-8ae8-456b-8634-020ae20a6097)
 
+# Power BI Dashboard
+
+<img width="1399" height="783" alt="Dashboard Screenshot" src="https://github.com/user-attachments/assets/86e0cd77-6dbf-4fa6-a205-727a6e0c7621" />
+
 # Steps in Power Query
 
 Key steps in the Power Query process include:
