@@ -14,7 +14,7 @@ It is possible to explore overdue trends by customer, account status, banding ty
 
 The dashboard also highlights upcoming due amounts and detailed customer-level data, helping teams prioritize follow-ups and proactively manage financial risk.
 
-<img width="1399" height="783" alt="Dashboard Screenshot" src="https://github.com/user-attachments/assets/86e0cd77-6dbf-4fa6-a205-727a6e0c7621" />
+![Dashboard GIF](https://github.com/user-attachments/assets/dc7387ef-9817-4001-a3ac-799fc28f5cd4)
 
 # Steps in Power Query
 
